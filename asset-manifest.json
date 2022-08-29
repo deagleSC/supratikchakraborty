@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/supratikchakraborty/static/css/main.cdd55a32.css",
+    "main.js": "/supratikchakraborty/static/js/main.bbfe5eaa.js",
+    "static/media/SupratikChakrabortyCV.pdf": "/supratikchakraborty/static/media/SupratikChakrabortyCV.73e34e97bbc16f59425c.pdf",
+    "static/media/cryptowatch.png": "/supratikchakraborty/static/media/cryptowatch.df9bb5cf7ae742ae2b5e.png",
+    "static/media/medal.png": "/supratikchakraborty/static/media/medal.a25e14914a6c2941848f.png",
+    "static/media/profilePicture.jpg": "/supratikchakraborty/static/media/profilePicture.cee5f5098be26c3d0be0.jpg",
+    "static/media/threeares.png": "/supratikchakraborty/static/media/threeares.a6c86e5b38d213fc78b6.png",
+    "static/media/twitter.png": "/supratikchakraborty/static/media/twitter.570a83358b62aadac17a.png",
+    "static/media/ambience.png": "/supratikchakraborty/static/media/ambience.b96d027c254debfd10ca.png",
+    "static/media/dermado.png": "/supratikchakraborty/static/media/dermado.e0a6216628e696b00fbb.png",
+    "index.html": "/supratikchakraborty/index.html",
+    "main.cdd55a32.css.map": "/supratikchakraborty/static/css/main.cdd55a32.css.map",
+    "main.bbfe5eaa.js.map": "/supratikchakraborty/static/js/main.bbfe5eaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdd55a32.css",
+    "static/js/main.bbfe5eaa.js"
+  ]
+}
