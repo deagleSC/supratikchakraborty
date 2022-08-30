@@ -12,6 +12,10 @@
     z-index: 5;
 }
 
+.introduction > p {
+    max-width: 700px;
+}
+
 .introduction > img {
     width: 120px;
     border-radius: 100%;

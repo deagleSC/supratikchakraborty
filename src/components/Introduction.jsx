@@ -8,7 +8,7 @@ const Introduction = () => {
         <div className="introduction">
             <img src={profilePicture} alt="profile"></img>
             <h2><b>Supratik Chakraborty</b></h2>
-            <p>Software Developer | Open Source Enthusiast | ML-DL Explorer | GDSC Lead</p>
+            <p>Software Developer | Smart India Hackathon 2022 Finalist | Open Source Enthusiast | ML-DL Explorer | GDSC Lead</p>
 
             <div className="socials">
                 <a href="https://www.facebook.com/supratikchakraborty01/" target="_blank"><i className="fa-brands fa-facebook fa-2x"></i></a>

@@ -18,7 +18,7 @@ const Projects = () => {
                     <div className="project-content">
                     <img src={threeares} alt="threeares"></img>
                     <p><b>Threeares</b></p>
-                    <small>An ecommerce website where all products(paperbacks, home appliances, accessories, etc.) are manufactured from recyclables, along with a web-based GHG emissions estimator.</small>
+                    <small>An online platform for estimation of GHG emissions for construction of roads based on materials used, equipment emplyed, and routes mapped, in accordance with the PMGSY initiative by Govt. of India.</small>
                     </div>
                     </a>
                 </div>
