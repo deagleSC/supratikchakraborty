@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cdd55a32.css",
-    "main.js": "/static/js/main.140d84dd.js",
+    "main.css": "/static/css/main.e53cbb08.css",
+    "main.js": "/static/js/main.c5008d0d.js",
     "static/media/SupratikChakrabortyCV.pdf": "/static/media/SupratikChakrabortyCV.73e34e97bbc16f59425c.pdf",
     "static/media/cryptowatch.png": "/static/media/cryptowatch.df9bb5cf7ae742ae2b5e.png",
     "static/media/medal.png": "/static/media/medal.a25e14914a6c2941848f.png",
@@ -11,11 +11,11 @@
     "static/media/ambience.png": "/static/media/ambience.b96d027c254debfd10ca.png",
     "static/media/dermado.png": "/static/media/dermado.e0a6216628e696b00fbb.png",
     "index.html": "/index.html",
-    "main.cdd55a32.css.map": "/static/css/main.cdd55a32.css.map",
-    "main.140d84dd.js.map": "/static/js/main.140d84dd.js.map"
+    "main.e53cbb08.css.map": "/static/css/main.e53cbb08.css.map",
+    "main.c5008d0d.js.map": "/static/js/main.c5008d0d.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdd55a32.css",
-    "static/js/main.140d84dd.js"
+    "static/css/main.e53cbb08.css",
+    "static/js/main.c5008d0d.js"
   ]
 }
