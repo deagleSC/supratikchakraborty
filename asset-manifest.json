@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.e53cbb08.css",
-    "main.js": "/static/js/main.c5008d0d.js",
-    "static/media/SupratikChakrabortyCV.pdf": "/static/media/SupratikChakrabortyCV.73e34e97bbc16f59425c.pdf",
+    "main.js": "/static/js/main.374bb3cd.js",
+    "static/media/SupratikChakrabortyCV.pdf": "/static/media/SupratikChakrabortyCV.f8a12363ac804728d777.pdf",
     "static/media/cryptowatch.png": "/static/media/cryptowatch.df9bb5cf7ae742ae2b5e.png",
     "static/media/medal.png": "/static/media/medal.a25e14914a6c2941848f.png",
     "static/media/profilePicture.jpg": "/static/media/profilePicture.cee5f5098be26c3d0be0.jpg",
@@ -12,10 +12,10 @@
     "static/media/dermado.png": "/static/media/dermado.e0a6216628e696b00fbb.png",
     "index.html": "/index.html",
     "main.e53cbb08.css.map": "/static/css/main.e53cbb08.css.map",
-    "main.c5008d0d.js.map": "/static/js/main.c5008d0d.js.map"
+    "main.374bb3cd.js.map": "/static/js/main.374bb3cd.js.map"
   },
   "entrypoints": [
     "static/css/main.e53cbb08.css",
-    "static/js/main.c5008d0d.js"
+    "static/js/main.374bb3cd.js"
   ]
 }
