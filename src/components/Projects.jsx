@@ -5,6 +5,7 @@ import dermado from '../assets/dermado.png';
 import oasis from '../assets/oasis.png';
 import cryptowatch from '../assets/cryptowatch.png';
 import ambience from '../assets/ambience.png';
+import buildr from '../assets/buildr.png'
 import './Projects.css';
 
 const Projects = () => {
@@ -14,6 +15,15 @@ const Projects = () => {
 
             <div className="projects-wrapper row">
                 <div className="project col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                    <a href="https://github.com/deagleSC/smartshelf.git" target="_blank">
+                    <div className="project-content">
+                    <img src={oasis} alt="threeares"></img>
+                    <p><b>Smartshelf</b></p>
+                    <small>Ecommerce website for books, notes, and other academic resources for students, with user authentication (using JWT), browse, search, filter and purchase features.</small>
+                    </div>
+                    </a>
+                </div>
+                <div className="project col-lg-4 col-md-6 col-sm-12 col-xs-12">
                     <a href="https://github.com/DeagleOfficial/threeares-sih.git" target="_blank">
                     <div className="project-content">
                     <img src={threeares} alt="threeares"></img>
@@ -22,7 +32,8 @@ const Projects = () => {
                     </div>
                     </a>
                 </div>
-                <div className="project col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                
+                {/* <div className="project col-lg-4 col-md-6 col-sm-12 col-xs-12">
                     <a href="https://github.com/DeagleOfficial/twitterclone.git" target="_blank">
                     <div className="project-content">
                     <img src={twitter} alt="twitter"></img>
@@ -30,7 +41,7 @@ const Projects = () => {
                     <small>A social media web application based on twitter developed using React JS and Firebase, with functionalities for CRUD operations on a NoSQL database (Firestore).</small>
                     </div>
                     </a>
-                </div>
+                </div> */}
                 <div className="project col-lg-4 col-md-6 col-sm-12 col-xs-12">
                     <a href="https://github.com/DeagleOfficial/dermado-app.git" target="_blank">
                     <div className="project-content">
@@ -40,7 +51,7 @@ const Projects = () => {
                     </div>
                     </a>
                 </div>
-                <div className="project col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                {/* <div className="project col-lg-4 col-md-6 col-sm-12 col-xs-12">
                     <a href="https://github.com/DeagleOfficial/oasis.git" target="_blank">
                     <div className="project-content">
                     <img src={oasis} alt="threeares"></img>
@@ -48,7 +59,7 @@ const Projects = () => {
                     <small>A journaling & note-taking web application with JWT (JSON Web Token) Authentication built using MongoDB, Express, Node JS, React JS (MERN) stack.</small>
                     </div>
                     </a>
-                </div>
+                </div> */}
                 <div className="project col-lg-4 col-md-6 col-sm-12 col-xs-12">
                     <a href="https://github.com/DeagleOfficial/cryptowatch.git" target="_blank">
                     <div className="project-content">
@@ -64,6 +75,15 @@ const Projects = () => {
                     <img src={ambience} alt="threeares"></img>
                     <p><b>Ambience</b></p>
                     <small>A Weather Web Application with functionality for location-based search developed using React JS and the OpenWeatherMap API.</small>
+                    </div>
+                    </a>
+                </div>
+                <div className="project col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                    <a href="https://github.com/deagleSC/buildr.git" target="_blank">
+                    <div className="project-content">
+                    <img src={buildr} alt="threeares"></img>
+                    <p><b>Buildr</b></p>
+                    <small>Buildr is a command line utility that enables automation of the process of Project Initialization using Python and GitHub API.</small>
                     </div>
                     </a>
                 </div>

@@ -11,6 +11,13 @@ const Achievements = () => {
                 <div className="achievement col-lg-4 col-md-6 col-sm-12 col-xs-12">
                     <div className="achievement-content">
                     <img src={medal} alt="threeares"></img>
+                    <p><b>Solved 300+ Leetcode Problems</b></p>
+                    <small>Solved 300+ problems on Leetcode with a peak contests rating of 1667 (Top 20% across Leetcode users).</small>
+                    </div>
+                </div>
+                <div className="achievement col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                    <div className="achievement-content">
+                    <img src={medal} alt="threeares"></img>
                     <p><b>Smart India Hackathon 2022 Finalist</b></p>
                     <small>Qualified to the Finals of Smart India Hackathon 2022 under Ministry of Rural Development, Govt. of India among 26 teams pan-India.</small>
                     </div>
@@ -22,13 +29,7 @@ const Achievements = () => {
                     <small>Contributed to the Open Source project NeoAlgo for Winter of Code 2020 organized by GDSC NSEC and received the Top Contributor award.</small>
                     </div>
                 </div>
-                <div className="achievement col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                    <div className="achievement-content">
-                    <img src={medal} alt="threeares"></img>
-                    <p><b>Facebook Hackercup 2020 Qualifier</b></p>
-                    <small>Qualified Facebook Hacker cup 2020 organized by Meta Platforms Inc. and finished the contest with a final rank of 2865 / 13820 participants.</small>
-                    </div>
-                </div>
+                
                 <div className="achievement col-lg-4 col-md-6 col-sm-12 col-xs-12">
                     <div className="achievement-content">
                     <img src={medal} alt="threeares"></img>
