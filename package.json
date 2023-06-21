@@ -2,7 +2,7 @@
   "name": "supratikchakrabortynew",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://www.supratikchakraborty.me",
+  "homepage": "https://supratikchakraborty.vercel.app",
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@testing-library/jest-dom": "^5.14.1",
