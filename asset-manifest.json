@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.e53cbb08.css",
-    "main.js": "/static/js/main.874bb7a9.js",
-    "static/media/cryptowatch.png": "/static/media/cryptowatch.df9bb5cf7ae742ae2b5e.png",
-    "static/media/medal.png": "/static/media/medal.a25e14914a6c2941848f.png",
-    "static/media/profilePicture.jpg": "/static/media/profilePicture.cee5f5098be26c3d0be0.jpg",
-    "static/media/threeares.png": "/static/media/threeares.a6c86e5b38d213fc78b6.png",
-    "static/media/twitter.png": "/static/media/twitter.570a83358b62aadac17a.png",
-    "static/media/ambience.png": "/static/media/ambience.b96d027c254debfd10ca.png",
-    "static/media/dermado.png": "/static/media/dermado.e0a6216628e696b00fbb.png",
-    "static/media/buildr.png": "/static/media/buildr.afa9bf789fad814a2b47.png",
-    "index.html": "/index.html",
-    "main.e53cbb08.css.map": "/static/css/main.e53cbb08.css.map",
-    "main.874bb7a9.js.map": "/static/js/main.874bb7a9.js.map"
+    "main.css": "/supratikchakraborty.netlify.app/static/css/main.e53cbb08.css",
+    "main.js": "/supratikchakraborty.netlify.app/static/js/main.08aa140a.js",
+    "static/media/cryptowatch.png": "/supratikchakraborty.netlify.app/static/media/cryptowatch.df9bb5cf7ae742ae2b5e.png",
+    "static/media/medal.png": "/supratikchakraborty.netlify.app/static/media/medal.a25e14914a6c2941848f.png",
+    "static/media/profilePicture.jpg": "/supratikchakraborty.netlify.app/static/media/profilePicture.cee5f5098be26c3d0be0.jpg",
+    "static/media/threeares.png": "/supratikchakraborty.netlify.app/static/media/threeares.a6c86e5b38d213fc78b6.png",
+    "static/media/twitter.png": "/supratikchakraborty.netlify.app/static/media/twitter.570a83358b62aadac17a.png",
+    "static/media/ambience.png": "/supratikchakraborty.netlify.app/static/media/ambience.b96d027c254debfd10ca.png",
+    "static/media/dermado.png": "/supratikchakraborty.netlify.app/static/media/dermado.e0a6216628e696b00fbb.png",
+    "static/media/buildr.png": "/supratikchakraborty.netlify.app/static/media/buildr.afa9bf789fad814a2b47.png",
+    "index.html": "/supratikchakraborty.netlify.app/index.html",
+    "main.e53cbb08.css.map": "/supratikchakraborty.netlify.app/static/css/main.e53cbb08.css.map",
+    "main.08aa140a.js.map": "/supratikchakraborty.netlify.app/static/js/main.08aa140a.js.map"
   },
   "entrypoints": [
     "static/css/main.e53cbb08.css",
-    "static/js/main.874bb7a9.js"
+    "static/js/main.08aa140a.js"
   ]
 }
