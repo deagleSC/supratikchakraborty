@@ -5,7 +5,8 @@ import dermado from '../assets/dermado.png';
 import oasis from '../assets/oasis.png';
 import cryptowatch from '../assets/cryptowatch.png';
 import ambience from '../assets/ambience.png';
-import buildr from '../assets/buildr.png'
+import buildr from '../assets/buildr.png';
+import hive from '../assets/hive.png';
 import './Projects.css';
 
 const Projects = () => {
@@ -61,6 +62,15 @@ const Projects = () => {
                     </a>
                 </div> */}
                 <div className="project col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                    <a href="https://github.com/deagleSC/twitter-mini.git" target="_blank">
+                    <div className="project-content">
+                    <img src={hive} alt="threeares"></img>
+                    <p><b>Hive</b></p>
+                    <small>A full-stack social media platform built on the MERN stack, and uses Cloudinary for media storage. Basically a twitter clone except you can edit your posts indefinitely.</small>
+                    </div>
+                    </a>
+                </div>
+                <div className="project col-lg-4 col-md-6 col-sm-12 col-xs-12">
                     <a href="https://github.com/DeagleOfficial/cryptowatch.git" target="_blank">
                     <div className="project-content">
                     <img src={cryptowatch} alt="threeares"></img>
@@ -69,7 +79,7 @@ const Projects = () => {
                     </div>
                     </a>
                 </div>
-                <div className="project col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                {/* <div className="project col-lg-4 col-md-6 col-sm-12 col-xs-12">
                     <a href="https://github.com/DeagleOfficial/ambience-weather.git" target="_blank">
                     <div className="project-content">
                     <img src={ambience} alt="threeares"></img>
@@ -77,7 +87,7 @@ const Projects = () => {
                     <small>A Weather Web Application with functionality for location-based search developed using React JS and the OpenWeatherMap API.</small>
                     </div>
                     </a>
-                </div>
+                </div> */}
                 <div className="project col-lg-4 col-md-6 col-sm-12 col-xs-12">
                     <a href="https://github.com/deagleSC/buildr.git" target="_blank">
                     <div className="project-content">
@@ -87,6 +97,7 @@ const Projects = () => {
                     </div>
                     </a>
                 </div>
+                
                 
             </div>
         </div>

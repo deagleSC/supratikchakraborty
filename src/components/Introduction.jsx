@@ -24,7 +24,7 @@ const Introduction = () => {
             </div>
 
             <div className="links">
-                <a href={process.env.REACT_APP_PUBLIC_URL + '/resume.pdf'} target="_blank"><button className="btn btn-md">Resume</button></a>
+                <a href={'/resume.pdf'} target="_blank"><button className="btn btn-md">Resume</button></a>
                 <a href="https://supratikchakraborty.medium.com/" target="_blank"><button className="btn btn-md">Blog</button></a>
             </div> 
 
