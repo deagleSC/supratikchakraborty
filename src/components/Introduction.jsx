@@ -1,7 +1,6 @@
 import React from 'react';
 import './Introduction.css';
 import profilePicture from '../assets/profilePicture.jpg';
-// import resume from '../docs/SupratikChakrabortyCV.pdf';
 
 const Introduction = () => {
     return ( 
