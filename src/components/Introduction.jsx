@@ -10,8 +10,7 @@ const Introduction = () => {
             <p>Ex-SDE Intern @ Openthrone | Smart India Hackathon 2022 Finalist | Open Source Enthusiast | ML-DL Explorer | GDSC Lead</p>
 
             <div className="socials">
-                {/* <a href="https://www.facebook.com/supratikchakraborty01/" target="_blank"><i className="fa-brands fa-facebook fa-2x"></i></a> */}
-                {/* <a href="https://www.instagram.com/supratik.ch/" target="_blank"><i className="fa-brands fa-instagram fa-2x"></i></a> */}
+              
                
                 <a href="mailto:supratikofficial1@gmail.com" target="_blank"><i className="fa-solid fa-envelope fa-2x"></i></a>
                 <a href="tel:+918584832114" target="_blank"><i class="fa-solid fa-phone fa-2x"></i></a>
